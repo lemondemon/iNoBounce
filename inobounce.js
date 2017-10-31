@@ -58,7 +58,7 @@
 		}
 
 		// Stop the bouncing -- no parents are scrollable
-		evt.preventDefault();
+		// evt.preventDefault();
 	};
 
 	var handleTouchstart = function(evt) {
